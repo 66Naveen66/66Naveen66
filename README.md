@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Naveen Adharsh C
-- I’m interested in AI and ML
+- I’m interested in AI, Reinforcement Learning, Deep Learning and Machine Learning.
 - I’m currently learning How To Build Machine Learning Models
 - I’m looking to collaborate on doing projects in the field of Machine Learning
 - E-mail : naveenadharshc@gmail.com
