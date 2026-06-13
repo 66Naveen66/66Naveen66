@@ -1,20 +1,11 @@
 
 <!-- HEADER BANNER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a192f,100:112240&height=220&section=header&text=Naveen%20Adharsh%20C&fontSize=52&fontColor=64ffda&fontAlignY=38&desc=Data%20Science%20%7C%20AI%20%26%20ML%20Practitioner%20%7C%20AI%20Researcher&descAlignY=58&descColor=8892b0&animation=fadeIn" width="100%"/>
-</div>
-
 <br/>
 
 <!-- PROFILE PICTURE + INTRO TABLE -->
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="190" valign="top" align="center">
-
-<img src="https://github.com/66Naveen66.png"
-     width="170"
-     style="border-radius:50%;"
-     alt="Naveen Adharsh C"/>
 
 <br/><br/>
 
