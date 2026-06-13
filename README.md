@@ -206,17 +206,6 @@
 
 ---
 
-<!-- TROPHIES -->
-## 🏆 &nbsp;GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=66Naveen66&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="trophies" width="100%"/>
-</div>
-
-<br/>
-
----
-
 <!-- GITHUB STATS -->
 ## 📊 &nbsp;GitHub Statistics
 
