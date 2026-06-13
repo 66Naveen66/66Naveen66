@@ -6,7 +6,10 @@
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td width="190" valign="top" align="center">
-
+<img src="https://github.com/66Naveen66.png"
+     width="170"
+     style="border-radius:50%;"
+     alt="Naveen Adharsh C"/>
 <br/><br/>
 
 <img src="https://komarev.com/ghpvc/?username=66Naveen66&label=Profile+Views&color=64ffda&style=flat-square" alt="views"/>
